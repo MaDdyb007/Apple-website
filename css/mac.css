@@ -1,0 +1,11 @@
+.name
+{
+	text-align: center;
+    color: #231F20;
+    font-size:20px;
+    font-weight: bold;
+}
+a:hover
+{
+    color: #333333;
+}

@@ -1,0 +1,17 @@
+.menu-item1
+{
+	text-align: center;
+    background-color: #333333;
+    color:#ffffff;
+    margin-top: 10px;
+    padding:10px 0;
+    cursor: pointer;
+}
+footer
+{
+    margin-top: 20px;
+}
+.menu-item1:hover
+{
+    background-color: #666666;
+}

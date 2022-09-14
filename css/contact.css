@@ -1,0 +1,57 @@
+.about
+{
+	text-align: center;
+    background-color: #333333;
+    color:#ffffff;
+    margin-top: 5px;
+    padding:10px 0;
+    font-weight: bold;
+    font-size: 20px;
+}
+.help
+{
+     text-align: center;
+    color: #231F20;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.sub1
+{
+float: left;
+margin-left: 390px;
+ background-color: #333333;
+    color:#ffffff;
+    border-radius: 15px;
+    padding: 5px 10px ;
+}
+.sub2
+{
+   float: right;
+   margin-right: 390px;
+    background-color: #333333;
+    color:#ffffff;
+    border-radius: 15px;
+    padding: 5px 10px ;
+}
+.imgs1
+{
+     float: right;
+      display: inline;
+      padding-left: 10px;
+}
+.imgs2
+{
+     float: right;
+      display: inline;
+      padding-left: 10px;
+}.imgs3
+{
+     float: right;
+      display: inline;
+      padding-left: 10pxs;
+}
+form
+{
+     text-align: center;
+}
